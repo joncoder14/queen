@@ -7,6 +7,7 @@ They are known for legendary songs like Bohemian Rhapsody, We Will Rock You, and
 ## technologies used:
 1. HTML5
 2. CSS3
+3. JavaSript
 
 ## Project structure
 The project follows a simple semantic HTML structure:
