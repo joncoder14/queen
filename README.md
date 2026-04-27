@@ -11,7 +11,7 @@ They are known for legendary songs like Bohemian Rhapsody, We Will Rock You, and
 ## Project structure
 The project follows a simple semantic HTML structure:
 
-<header> → Title, main heading and navigation menu.
-<main> → Main content.
-<footer> → social media, biographies of the members and Copyright.
+ <header> → Title, main heading and navigation menu.
+ <main> → Main content.
+ <footer> → social media, biographies of the members and Copyright.
 
